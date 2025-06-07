@@ -25,19 +25,5 @@ This study aims to:
   - Droplet breakup and secondary atomization
   - Phase-change modeling (latent heat)
 
-## 📁 Repository Structure
 
-```plaintext
-cryospray-cfd-model/
-├── case_files/
-│   ├── mesh.msh
-│   ├── input.cas
-│   └── solution.dat
-├── results/
-│   ├── contours/
-│   └── plots/
-├── scripts/
-│   ├── udf/
-│   └── post_processing.py
-├── README.md
-└── report.pdf
+
